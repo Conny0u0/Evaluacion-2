@@ -1,0 +1,85 @@
+.index{
+    background-color: rgb(255, 255, 255);
+}
+
+.footer{
+    padding-top: 20px;
+    padding-bottom: 1px;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #30439b;
+    color: white;
+}
+
+
+.logo:hover{
+    color: rgb(176, 176, 176);
+}
+
+nav .nav-link {
+    color: white;
+}
+
+nav .nav-item a:hover{
+    color: rgb(176, 176, 176);
+}
+
+.columna{
+    background-color: #5698ce;
+    padding-bottom: 20px;
+    padding-top: 35px;
+    padding-left: 50px;
+    padding-right: 50px; 
+}
+
+/*Formulario*/
+
+body{
+    background: rgb(216, 216, 216);
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contenido{
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #30439b;
+    padding: 4px;
+    border-radius: 5px;
+    border-top: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    background-color: #99dff9;
+    opacity: 1;
+    
+    background-size: 27px 27px;
+}
+
+.form-label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-control{
+    border-radius: 2px;
+}
+
+
+
+.enviar{
+    padding: 4px;
+    border-radius: 1px;
+    border-style: groove;
+}
+
+.limpiar{
+    padding: 4px;
+    border-radius: 1px;
+    border-style: groove;
+}
